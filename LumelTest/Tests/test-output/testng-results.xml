@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Home Page Verification]]>
+    </line>
+    <line>
+      <![CDATA[Home Page verfifed]]>
+    </line>
+    <line>
+      <![CDATA[ Test 001 - Add to-do is working. (Verify if the item is added to the list )]]>
+    </line>
+    <line>
+      <![CDATA[Test 001 - Add to-do is working. (Verify if the item is added to the list - verfifed]]>
+    </line>
+    <line>
+      <![CDATA[************************End Of Test ***************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test-002 Marking an item as complete works. (Verify if the item is crossed out and verify the counter on the bottom-left)]]>
+    </line>
+    <line>
+      <![CDATA[Test-002 Marking an item as complete works. (Verify if the item is crossed out and verify the counter on the bottom-left) - verfifed]]>
+    </line>
+    <line>
+      <![CDATA[************************End Of Test ***************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test -003 Delete a to-do (Verify if the item is removed from the list)]]>
+    </line>
+    <line>
+      <![CDATA[Test -003 Delete a to-do (Verify if the item is removed from the list) - verfifed]]>
+    </line>
+    <line>
+      <![CDATA[************************End Of Test ***************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test =004-Filtering a to-do is working (Click on the Active button and verify if it shows the Active items. Click on Completed and verify if it shows the completed items)]]>
+    </line>
+    <line>
+      <![CDATA[Test =004-Filtering a to-do is working (Click on the Active button and verify if it shows the Active items. Click on Completed and verify if it shows the completed items)]]>
+    </line>
+    <line>
+      <![CDATA[************************End Of Test ***************************************************************************]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-07T17:23:44 IST" name="Default suite" finished-at="2024-10-07T17:24:29 IST" duration-ms="44892">
+    <groups>
+    </groups>
+    <test started-at="2024-10-07T17:23:44 IST" name="Default test" finished-at="2024-10-07T17:24:29 IST" duration-ms="44892">
+      <class name="com.Tests.Tests">
+        <test-method is-config="true" signature="Intialization()[pri:0, instance:com.Tests.Tests@4c12331b]" started-at="2024-10-07T17:23:44 IST" name="Intialization" finished-at="2024-10-07T17:23:57 IST" duration-ms="12533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Intialization -->
+        <test-method signature="addToDoIsworking()[pri:0, instance:com.Tests.Tests@4c12331b]" started-at="2024-10-07T17:23:57 IST" name="addToDoIsworking" finished-at="2024-10-07T17:24:28 IST" duration-ms="31873" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home Page Verification]]>
+            </line>
+            <line>
+              <![CDATA[Home Page verfifed]]>
+            </line>
+            <line>
+              <![CDATA[ Test 001 - Add to-do is working. (Verify if the item is added to the list )]]>
+            </line>
+            <line>
+              <![CDATA[Test 001 - Add to-do is working. (Verify if the item is added to the list - verfifed]]>
+            </line>
+            <line>
+              <![CDATA[************************End Of Test ***************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Test-002 Marking an item as complete works. (Verify if the item is crossed out and verify the counter on the bottom-left)]]>
+            </line>
+            <line>
+              <![CDATA[Test-002 Marking an item as complete works. (Verify if the item is crossed out and verify the counter on the bottom-left) - verfifed]]>
+            </line>
+            <line>
+              <![CDATA[************************End Of Test ***************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Test -003 Delete a to-do (Verify if the item is removed from the list)]]>
+            </line>
+            <line>
+              <![CDATA[Test -003 Delete a to-do (Verify if the item is removed from the list) - verfifed]]>
+            </line>
+            <line>
+              <![CDATA[************************End Of Test ***************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Test =004-Filtering a to-do is working (Click on the Active button and verify if it shows the Active items. Click on Completed and verify if it shows the completed items)]]>
+            </line>
+            <line>
+              <![CDATA[Test =004-Filtering a to-do is working (Click on the Active button and verify if it shows the Active items. Click on Completed and verify if it shows the completed items)]]>
+            </line>
+            <line>
+              <![CDATA[************************End Of Test ***************************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addToDoIsworking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Tests.Tests@4c12331b]" started-at="2024-10-07T17:24:29 IST" name="tearDown" finished-at="2024-10-07T17:24:29 IST" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
